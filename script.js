@@ -3,5 +3,5 @@ var animation = bodymovin.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    webkitURL: 'https://lottiefiles.com/64003-blue'
+    path: 'tech_cloud.json'
 })
